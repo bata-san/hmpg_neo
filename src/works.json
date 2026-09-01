@@ -1,0 +1,42 @@
+[
+  {
+    "asset": "result",
+    "category": "3D",
+    "status": "in-progress",
+    "date": "2026-09",
+    "summary": "甲冑のような輪郭と無人機の機構を組み合わせた3DCG制作。",
+    "tools": ["Blender", "UE5"]
+  },
+  {
+    "asset": "thumb",
+    "category": "Web",
+    "status": "completed",
+    "date": "2026-08",
+    "summary": "赤い機体の形状検証とマテリアルテスト。",
+    "tools": ["Blender", "UE5"]
+  },
+  {
+    "asset": "gyogan_with_HUD3",
+    "category": "Design",
+    "status": "completed",
+    "date": "2026-07",
+    "summary": "HUDと空間演出を組み込んだ暗所レンダリング。",
+    "tools": ["Blender", "After Effects"]
+  },
+  {
+    "asset": "rokou",
+    "category": "Design",
+    "status": "completed",
+    "date": "2026-06",
+    "summary": "光源、反射、スケール感を検証した環境デザイン。",
+    "tools": ["Blender", "After Effects"]
+  },
+  {
+    "asset": "ポーズ１改善",
+    "category": "3D",
+    "status": "completed",
+    "date": "2026-05",
+    "summary": "ポーズとシルエットの改善を重ねたキャラクターモデル。",
+    "tools": ["Blender", "UE5"]
+  }
+]
