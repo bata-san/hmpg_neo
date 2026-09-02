@@ -151,7 +151,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 
     <aside class="right-rail" aria-label="Unitze developer designer">
       <div class="crosshair crosshair--rail" aria-hidden="true"><span></span></div>
-      <div class="rail-copy">UNITZE DEVELOPER/DESIGNER</div>
+      <a class="rail-copy" href="https://unitze.net" target="_blank" rel="noopener noreferrer" aria-label="Visit unitze.net" title="Visit unitze.net">UNITZE DEVELOPER/DESIGNER</a>
     </aside>
 
     <button type="button" class="theme-toggle" data-theme-toggle aria-label="Toggle color theme" title="Toggle color theme"><svg class="theme-toggle__icon" viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="4.25"></circle><path d="M10 1v2M10 17v2M1 10h2M17 10h2M3.64 3.64l1.42 1.42M14.94 14.94l1.42 1.42M16.36 3.64l-1.42 1.42M5.06 14.94l-1.42 1.42"></path></svg><span data-theme-label>BLUE</span></button>

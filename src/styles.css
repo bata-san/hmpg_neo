@@ -1601,12 +1601,20 @@ button {
 }
 
 .rail-copy {
+  display: block;
+  color: inherit;
   position: static;
   white-space: nowrap;
   font-size: clamp(9px, 1.35vw, 22px);
   letter-spacing: .25em;
+  text-decoration: none;
   transform: rotate(90deg);
   transform-origin: center;
+}
+
+.rail-copy:hover {
+  color: inherit;
+  text-decoration: none;
 }
 
 @media (max-width: 760px) {
